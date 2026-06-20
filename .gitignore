@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+data/mnist_raw/
+.DS_Store
+*.log
+~
